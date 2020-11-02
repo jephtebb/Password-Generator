@@ -1,13 +1,12 @@
-# Password Generator Starter Code
 # Password Generator
 
 ## Purpose
-An application to create random password based on certain criteria
+An application to create a random password based on certain criteria
 
 ## Built With
 * HTML
 * CSS
-*Javascript
+* Javascript
 
 ## Website
 https://jephtebb.github.io/Password-Generator/
